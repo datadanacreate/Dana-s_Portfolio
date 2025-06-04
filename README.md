@@ -14,4 +14,4 @@ In this project, I explored how data-driven insights can direct and enhance thes
 
 # [HealthMax Shampoo Analysis (Excel)](https://github.com/datadanacreate/HealthMax.git)
 
-HealthMax is a fictitious market leader in the shampoo industry. In this project, I analyzed their data using Excel to identify growth opportunities related to Net Revenue Management (NRM) and came up with actionable insights to grow the business.
+HealthMax is a leading fictitious brand in the shampoo industry. In this project, I leveraged advanced Excel tools including PivotTables, VLOOKUP, and forecasting, to analyze their data and identify growth opportunities related to Net Revenue Management (NRM).
