@@ -12,5 +12,6 @@ GoodThought NGO has been a catalyst for positive change, focusing its efforts on
 
 In this project, I explored how data-driven insights can direct and enhance these humanitarian efforts by engaging with the GoodThought PostgreSQL database, which encapsulates detailed records of assignments, funding, impacts, and donor activities from 2010 to 2023.
 
-# [Net Revenue Management]()
+# [HealthMax Shampoo Analysis](https://github.com/datadanacreate/HealthMax.git)
 
+HealthMax is a fictitious market leader in the shampoo industry. In this project, I analyzed their data to identify growth opportunities related to Net Revenue Management (NRM) and came up with actionable insights to grow the business.
