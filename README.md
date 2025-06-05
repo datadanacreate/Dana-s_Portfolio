@@ -36,5 +36,5 @@ In this project, I used data-driven insights to:
 
 Thank you for visiting!  
 Feel free to explore my work and reach out for collaboration or questions.  
-🔗 [Connect with me!](https://linkedin.com/in/yourprofile)  
+🔗 [Connect with me!](https://linkedin.com/in/danasshelton)  
 
